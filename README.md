@@ -3,7 +3,7 @@
     An Example .io Game
 </h1>
 <h4 align="center">
-  <a href="https://example-io-game.victorzhou.com">https://example-io-game.victorzhou.com</a>
+  <a href="https://example-io-game.victorzhou.com">https://hams-io-game.victorzhou.com</a>
 </h4>
 
 <p align="center">
